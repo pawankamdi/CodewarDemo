@@ -31,7 +31,7 @@ namespace CodewarDemo
             {
                 return sheeps.Count(sheep => sheep);
             }
-            
+            //Console.Writeline();
         }
         
     }
